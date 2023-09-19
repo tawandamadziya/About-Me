@@ -1,5 +1,5 @@
 # Hi, I'm Tawanda 👋🏾 👨🏽‍💻
-<img href="https://github.com/tawandamadziya/About-Me/blob/main/github-header-image.png" alt="banner"/>
+<img href="github-header-image.png" alt="banner"/>
 About me
 
 I am a highly skilled and experienced software engineer with a passion for developing innovative and user-friendly applications. I have a strong understanding of object-oriented programming, data structures, and algorithms. I am also proficient in a variety of programming languages and technologies, including Python, Django, C++, React Native, MySQL, VS Code, and Firebase.
